@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>92.jpg</filename>
+	<path>D:\workspace\kaggle\HuBMAP\data\img\92.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2790</width>
+		<height>2790</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cell</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>277</ymin>
+			<xmax>2704</xmax>
+			<ymax>2790</ymax>
+		</bndbox>
+	</object>
+</annotation>
